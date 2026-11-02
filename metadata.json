@@ -1,0 +1,6 @@
+{
+  "name": "PulseCheck Environmental Intelligence",
+  "description": "High-precision atmospheric monitoring, biosensor telemetry, and macro-climate intelligence platform with real-time station diagnostics and geospatial dispersion mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
